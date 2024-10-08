@@ -110,7 +110,7 @@ soupsieve==1.8
 spidev==3.3
 ssh-import-id==5.7
 thonny==3.2.0
-tornado==5.1.1
+tornado==6.4.1
 touchphat==0.0.1
 traitlets==4.3.2
 twython==3.7.0
