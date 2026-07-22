@@ -106,7 +106,7 @@ simplejson==3.16.0
 six==1.12.0
 skywriter==0.0.7
 sn3218==1.2.7
-soupsieve==1.8
+soupsieve==2.8.4
 spidev==3.3
 ssh-import-id==5.7
 thonny==3.2.0
