@@ -52,7 +52,7 @@ mypy==0.670
 mypy-extensions==0.4.1
 nudatus==0.0.4
 numpy==1.22.0
-oauthlib==2.1.0
+oauthlib==4.0.0
 olefile==0.46
 pantilthat==0.0.7
 parso==0.3.1
