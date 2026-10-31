@@ -77,7 +77,7 @@ Pygments==2.20.0
 PyGObject==3.30.4
 pyinotify==0.9.6
 PyJWT==2.13.0
-pylint==2.2.2
+pylint==4.0.9
 pyOpenSSL==26.0.0
 pyparsing==2.2.0
 pyperclip==1.6.4
